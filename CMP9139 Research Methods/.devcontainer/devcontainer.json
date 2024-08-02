@@ -1,7 +1,7 @@
 {
-    "name": "MODULE",
+    "name": "Research Methods",
     
-    "image": "ghcr.io/socstech/MODULE:latest",
+    "image": "ghcr.io/socstech/cmp9139:latest",
 
     //"build": { "dockerfile": "Dockerfile" },
 
